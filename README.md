@@ -1,5 +1,9 @@
 # test-nuxt
 
+### 目標
+
+在 admin/src/runtime/utils/antdv 建立按需載入
+
 /admin 會出現 layout 樣式
 /example_one 會出現 input
 /example_two 會出現 select
